@@ -1,4 +1,4 @@
-const MMSLS = ["https://www.maimemo.com/share/page?uid=28382088&pid=87dd8eb8e58d0a5310867ca1388d0dc0&tid=3e43776a2f9e60bbfae769f8d03832af",]
+const MMSLS = ["https://www.maimemo.com/share/page?uid=28382088&pid=f93f3d48c80039802582c2491d7ea983&tid=fdfe2d9c6232192e86348aa93305cfe1",]
   /**
    * 生成随机数字
    * @param {number} min 最小值（包含）
